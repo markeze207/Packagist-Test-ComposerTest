@@ -1,0 +1,5 @@
+{
+    "require": {
+        "markeze207/composer-test-package": "1.0.0"
+    }
+}

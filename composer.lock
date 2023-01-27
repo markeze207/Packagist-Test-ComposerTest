@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "9a8d89260ec900055acfc6c9eed2fe56",
+    "packages": [
+        {
+            "name": "markeze207/composer-test-package",
+            "version": "1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/markeze207/Packagist-ComposerTest.git",
+                "reference": "334373925fa9d4fb7371fe3d51bb30655f35097a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/markeze207/Packagist-ComposerTest/zipball/334373925fa9d4fb7371fe3d51bb30655f35097a",
+                "reference": "334373925fa9d4fb7371fe3d51bb30655f35097a",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "markeze\\parser\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "markeze207"
+                }
+            ],
+            "description": "test project",
+            "support": {
+                "issues": "https://github.com/markeze207/Packagist-ComposerTest/issues",
+                "source": "https://github.com/markeze207/Packagist-ComposerTest/tree/1.0"
+            },
+            "time": "2023-01-27T20:52:01+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}
